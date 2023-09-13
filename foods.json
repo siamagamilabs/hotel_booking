@@ -1,33 +1,28 @@
-{ 
-    foodItems=[
-  {
-    item:"burger,
-    rate:"12$",
-    serveratio:"1:4",
-    media:"https://siamagamilabs.github.io/hotel_booking/pasta.jpg"
-    supplytime: "breakfast",
-    description:
-      "I love  pasta realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",   
-  },
 {
-    item:"burger,
-    rate:"12$",
-    serveratio:"1:4",
-    media:"https://siamagamilabs.github.io/hotel_booking/pasta.jpg"
-    supplytime: "breakfast",
-    description:
-      "I love  pasta realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",   
-  },
-{
-    item:"pizza",
-    rate:"12$",
-    serveratio:"1:4",
-    media:"https://siamagamilabs.github.io/hotel_booking/pasta.jpg"
-    supplytime: "breakfast",
-    description:
-      "I love  pasta realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",   
-  },
-    
-    ]
-
+  "foodItems": [
+    {
+      "item": "burger",
+      "rate": "12$",
+      "serveratio": "1:4",
+      "media": "https://siamagamilabs.github.io/hotel_booking/pasta.jpg",
+      "supplytime": "breakfast",
+      "description": "I love pasta really oo yes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in."
+    },
+    {
+      "item": "burger",
+      "rate": "12$",
+      "serveratio": "1:4",
+      "media": "https://siamagamilabs.github.io/hotel_booking/pasta.jpg",
+      "supplytime": "breakfast",
+      "description": "I love pasta really oo yes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in."
+    },
+    {
+      "item": "pizza",
+      "rate": "12$",
+      "serveratio": "1:4",
+      "media": "https://siamagamilabs.github.io/hotel_booking/pasta.jpg",
+      "supplytime": "breakfast",
+      "description": "I love pasta really oo yes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in."
+    }
+  ]
 }
