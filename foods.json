@@ -14,7 +14,7 @@
       "item": "Pasta",
       "rate": "10$",
       "serveratio": "1:3",
-      "media": ["https://t.ly/qGlDE", "https://t.ly/qGlDE", "https://t.ly/qGlDE"],
+      "media": ["https://siamagamilabs.github.io/hotel_booking/pasta.jpg", "https://siamagamilabs.github.io/hotel_booking/pasta.jpg", "https://siamagamilabs.github.io/hotel_booking/pasta.jpg"],
       "availableAt": ["lunch", "dinner"],
       "description": "Delicious pasta cooked to perfection and served with your choice of sauce, garnished with grated cheese."
     },
@@ -23,7 +23,7 @@
       "item": "Pizza",
       "rate": "15$",
       "serveratio": "1:4",
-      "media": ["https://siamagamilabs.github.io/hotel_booking/pizza.jpg", "https://siamagamilabs.github.io/hotel_booking/pizza.jpg", "https://siamagamilabs.github.io/hotel_booking/pizza.jpg"],
+      "media": ["https://t.ly/qGlDE", "https://t.ly/qGlDE","https://t.ly/qGlDE"],
       "availableAt": ["breakfast", "lunch", "dinner", "evening"],
       "description": "A mouthwatering pizza topped with a variety of fresh ingredients and melted cheese on a crispy crust."
     },
