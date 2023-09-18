@@ -5,8 +5,8 @@
       "item": "Burger",
       "rate": "12$",
       "serveratio": "1:4",
-      "media": "https://siamagamilabs.github.io/hotel_booking/burger.jpg",
-      "supplytime": ["breakfast"],
+      "media": ["https://siamagamilabs.github.io/hotel_booking/burger.jpg", "https://siamagamilabs.github.io/hotel_booking/burger.jpg", "https://siamagamilabs.github.io/hotel_booking/burger.jpg"],
+      "availableAt": ["breakfast"],
       "description": "A classic burger with a juicy patty, fresh lettuce, tomato, and your choice of toppings, served on a soft bun."
     },
     {
@@ -14,8 +14,8 @@
       "item": "Pasta",
       "rate": "10$",
       "serveratio": "1:3",
-      "media": "https://siamagamilabs.github.io/hotel_booking/pasta.jpg",
-      "supplytime": ["lunch", "dinner"],
+      "media": ["https://siamagamilabs.github.io/hotel_booking/pasta.jpg", "https://siamagamilabs.github.io/hotel_booking/pasta.jpg", "https://siamagamilabs.github.io/hotel_booking/pasta.jpg"],
+      "availableAt": ["lunch", "dinner"],
       "description": "Delicious pasta cooked to perfection and served with your choice of sauce, garnished with grated cheese."
     },
     {
@@ -23,8 +23,8 @@
       "item": "Pizza",
       "rate": "15$",
       "serveratio": "1:4",
-      "media": "https://siamagamilabs.github.io/hotel_booking/pizza.jpg",
-      "supplytime": ["breakfast", "lunch", "dinner", "evening"],
+      "media": ["https://siamagamilabs.github.io/hotel_booking/pizza.jpg", "https://siamagamilabs.github.io/hotel_booking/pizza.jpg", "https://siamagamilabs.github.io/hotel_booking/pizza.jpg"],
+      "availableAt": ["breakfast", "lunch", "dinner", "evening"],
       "description": "A mouthwatering pizza topped with a variety of fresh ingredients and melted cheese on a crispy crust."
     },
     {
@@ -32,8 +32,8 @@
       "item": "Salad",
       "rate": "8$",
       "serveratio": "1:2",
-      "media": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg",
-      "supplytime": ["lunch"],
+      "media": ["https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg", "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg", "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg"],
+      "availableAt": ["lunch"],
       "description": "A healthy and refreshing salad made with crisp lettuce, assorted veggies, and your choice of dressing."
     },
     {
@@ -41,8 +41,8 @@
       "item": "Sandwich",
       "rate": "9$",
       "serveratio": "1:3",
-      "media": "https://shwetainthekitchen.com/wp-content/uploads/2020/08/IMG_9973.jpg",
-      "supplytime": ["dinner"],
+      "media": ["https://shwetainthekitchen.com/wp-content/uploads/2020/08/IMG_9973.jpg", "https://shwetainthekitchen.com/wp-content/uploads/2020/08/IMG_9973.jpg", "https://shwetainthekitchen.com/wp-content/uploads/2020/08/IMG_9973.jpg"],
+      "availableAt": ["dinner"],
       "description": "A delectable sandwich filled with a combination of meats, cheeses, and fresh vegetables, served on your choice of bread."
     },
     {
@@ -50,8 +50,8 @@
       "item": "Steak",
       "rate": "20$",
       "serveratio": "1:4",
-      "media": "https://natashaskitchen.com/wp-content/uploads/2020/03/Pan-Seared-Steak-4.jpg",
-      "supplytime": ["breakfast", "dinner"],
+      "media": ["", "", ""],
+      "availableAt": ["breakfast", "dinner"],
       "description": "A succulent steak, perfectly grilled to your liking, served with a side of vegetables and sauce."
     },
     {
@@ -59,8 +59,8 @@
       "item": "Sushi",
       "rate": "18$",
       "serveratio": "1:3",
-      "media": "https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg",
-      "supplytime": ["lunch", "dinner"],
+      "media": ["https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg", "https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg", "https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg"],
+      "availableAt": ["lunch", "dinner"],
       "description": "Exquisite sushi rolls with a variety of fresh seafood and vegetables, accompanied by soy sauce and wasabi."
     },
     {
@@ -68,8 +68,8 @@
       "item": "Tacos",
       "rate": "14$",
       "serveratio": "1:2",
-      "media": "https://i.ytimg.com/vi/YoIgCo2MP7Y/hqdefault.jpg",
-      "supplytime": ["breakfast", "lunch"],
+      "media": ["https://i.ytimg.com/vi/YoIgCo2MP7Y/hqdefault.jpg", "https://i.ytimg.com/vi/YoIgCo2MP7Y/hqdefault.jpg", "https://i.ytimg.com/vi/YoIgCo2MP7Y/hqdefault.jpg"],
+      "availableAt": ["breakfast", "lunch"],
       "description": "Tasty tacos filled with your choice of meat, salsa, and toppings, wrapped in soft tortillas."
     },
     {
@@ -77,8 +77,8 @@
       "item": "Waffles",
       "rate": "10$",
       "serveratio": "1:3",
-      "media": "https://sallysbakingaddiction.com/wp-content/uploads/2022/12/gingerbread-waffles-3.jpg",
-      "supplytime": ["evening"],
+      "media": ["https://sallysbakingaddiction.com/wp-content/uploads/2022/12/gingerbread-waffles-3.jpg", "https://sallysbakingaddiction.com/wp-content/uploads/2022/12/gingerbread-waffles-3.jpg", "https://sallysbakingaddiction.com/wp-content/uploads/2022/12/gingerbread-waffles-3.jpg"],
+      "availableAt": ["evening"],
       "description": "Sweet and fluffy waffles served with a variety of toppings, such as syrup, whipped cream, and fruits."
     }
   ]
