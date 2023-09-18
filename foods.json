@@ -50,7 +50,7 @@
       "item": "Steak",
       "rate": "20$",
       "serveratio": "1:4",
-      "media": ["", "", ""],
+      "media": ["https://www.howtocook.recipes/wp-content/uploads/2021/11/Steak-recipe-500x500.jpg", "https://www.howtocook.recipes/wp-content/uploads/2021/11/Steak-recipe-500x500.jpg", "https://www.howtocook.recipes/wp-content/uploads/2021/11/Steak-recipe-500x500.jpg"],
       "availableAt": ["breakfast", "dinner"],
       "description": "A succulent steak, perfectly grilled to your liking, served with a side of vegetables and sauce."
     },
